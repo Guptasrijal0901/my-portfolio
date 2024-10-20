@@ -7,7 +7,7 @@ function Profile() {
       <h2>Profile</h2>
       <p><strong>Name:</strong> Srijal Gupta</p>
       <p><strong>Contact No:</strong> +91 9336039041</p>
-      <p><strong>Email ID:</strong> <a href="mailto:srijal0901@gmail.com">srijal0901@gmail.com</a></p>
+      <p><strong>Email ID:</strong> <a href="mailto:srijalgupta360@gmail.com">srijal0901@gmail.com</a></p>
       <p><strong>GitHub:</strong> <a href="https://github.com/Guptasrijal0901">github.com/Guptasrijal0901</a></p>
       <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srijal-gupta-93840b292">linkedin.com/in/srijal-gupta-93840b292</a></p>
       <h3>Academic Details</h3>
