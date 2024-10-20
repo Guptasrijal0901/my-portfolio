@@ -12,7 +12,7 @@ function Profile() {
       <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srijal-gupta-93840b292">linkedin.com/in/srijal-gupta-93840b292</a></p>
       <h3>Academic Details</h3>
       <ul>
-        <li><strong>B. Tech (Electronics and Communication Engineering):</strong> 2021-2025, Madan Mohan Malaviya University of Technology, Gorakhpur, CGPA: 6.5/10.0</li>
+        <li><strong>B. Tech (Electronics and Communication Engineering):</strong> 2021-2025, Madan Mohan Malaviya University of Technology, Gorakhpur, CGPA: 7.07/10.0</li>
         <li><strong>Class XII (CBSE):</strong> 2019, Air Force School, Gorakhpur, Percentage: 80.0%</li>
         <li><strong>Class X (ICSE):</strong> 2017, Air Force School, Gorakhpur, Percentage: 93.0%</li>
       </ul>

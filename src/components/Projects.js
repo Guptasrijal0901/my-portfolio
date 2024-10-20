@@ -15,6 +15,12 @@ function Projects() {
         <li><strong>3. Authentication App:
         </strong> Built a full-stack application enabling users to sign up, log in securely, and maintain sessions using cookies.
         </li>
+        <li><strong> 4. MMMUT Complainant station (CRUD operation, MERN project)
+        </strong>
+        </li>
+        <li><strong>5. Sudoku solving (React JS)
+        </strong>
+        </li>
       </ul>
     </section>
   );
